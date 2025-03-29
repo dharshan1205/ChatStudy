@@ -1,5 +1,5 @@
-NAME : Preethika N      
-REG NO : 212223040130
+NAME : DHARSHAN R      
+REG NO : 212224230060
 
 # Ex. No:1b 			Study of Client Server Chat Applications
 
